@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m passionate about developing solutions throug
 - ⚡ Fun fact: I love camping, reading, and diving deep into problem-solving!
 
 ### Get in touch:
-- [LinkedIn](linkedin.com/in/abdullah-mahmud-532b62103)
+- [LinkedIn](https://www.linkedin.com/in/abdullah-mahmud-532b62103)
 - [Email](mailto:abdullahalmahmud28@gmail.com)
 
 Thanks for stopping by! 😊
