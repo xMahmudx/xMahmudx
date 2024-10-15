@@ -1,4 +1,4 @@
-# Hi, I'm Mahmud 👋
+# Hi, I'm Mahmud. 👋
 
 ### Software Developer | Problem Solver | Tech Enthusiast  
 
