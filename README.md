@@ -22,5 +22,5 @@ Welcome to my GitHub profile! I’m passionate about developing solutions throug
 - [LinkedIn](https://www.linkedin.com/in/abdullah-mahmud-532b62103)
 - [Email](mailto:abdullahalmahmud28@gmail.com)
 
-Thanks for stopping by! 😊
+Thanks for stopping by! 😊   
 
