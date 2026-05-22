@@ -10,13 +10,13 @@ Welcome to my GitHub profile! I’m passionate about developing solutions throug
 
 - 👨‍💻 You can find some of my key projects here
 
-- 👯 I’m looking to collaborate on interesting projects in software development.
+- 👯 I’m looking to collaborate on llm projects in software development.
 
-- 🤔 I’m looking for help with advancing my knowledge in **Cloud Computing** and **DevOps**.
+- 🤔 I’m looking for help with advancing my knowledge in **Cloud Computing**, **Cyber Security** and **DevOps**.
 
 - 💬 Ask me about **software development**, **problem-solving**, and **my projects**.
 
-- ⚡ Fun fact: I love camping, reading, and diving deep into problem-solving!
+- ⚡ Fun fact: I love traveling, reading, and diving deep into problem-solving!
 
 ### Get in touch:
 - [LinkedIn](https://www.linkedin.com/in/abdullah-mahmud-532b62103)
