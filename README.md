@@ -42,7 +42,7 @@ I build production software — web platforms, data tools, and the occasional th
 ### 🌿 Beyond the code
 
 When I'm not at a keyboard I'm out with a camera — forests, coastlines, the Sundarbans.  
-I write occasionally too; mostly in English, sometimes in Bengali.
+I write occasionally too; sometimes in English, sometimes in Bengali.
 
 ---
 
