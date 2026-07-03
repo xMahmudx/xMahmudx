@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I build production web platforms, data tools, and 
 
 - 💻 My go-to stack is **Next.js**, **Laravel**, **Spring Boot**, **FastAPI**, and **PostgreSQL** — but I pick whatever the problem needs.
 
-- 🚀 Some things I've built: an **artist marketplace** ([Uparjon](https://uparjon.bd)), a **cinematic WebGL marketing site** (Dakatia Water), a **product catalogue with CI/CD** ([Nabil's Shop](https://marauders.cloud)), a **multi-tenant restaurant POS** (Wharekai RMS), and an **on-device NID card OCR** module.
+- 🚀 Some things I've built: an **artist marketplace** ([Uparjon](https://uparjon.bd)), a **cinematic WebGL marketing site** ([Dakatia](https://dakatia.bd)), a **product catalogue with CI/CD** ([Nabil's Shop](https://marauders.cloud)), a **multi-tenant restaurant POS** (Wharekai RMS), and an **on-device NID card OCR** module.
 
 - 🌱 Currently going deeper into **DevOps**, **distributed systems**, and **on-device ML**.
 
